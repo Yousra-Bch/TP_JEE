@@ -1,0 +1,6 @@
+InitServlet.class
+dao\EtudiantRepository.class
+dao\LivreRepository.class
+ServletGestionLivres.class
+entities\Etudiant.class
+entities\Livre.class
